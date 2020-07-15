@@ -15,8 +15,8 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torch
 
-MODEL_PATH = "./model/ver2alpha"
-out_path = "./output/ver2alpha"
+MODEL_PATH = "./output/ver2beta/models"
+out_path = "./output/ver2beta/generates"
 os.makedirs("images", exist_ok=True)
 os.makedirs(MODEL_PATH, exist_ok=True)
 os.makedirs(out_path, exist_ok=True)
