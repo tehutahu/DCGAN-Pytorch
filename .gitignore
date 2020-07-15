@@ -8,4 +8,4 @@
 
 # configs
 *.vscode
-
+*.pyc
