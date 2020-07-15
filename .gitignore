@@ -1,0 +1,11 @@
+# data
+*.png
+*.jpg
+*.jpeg
+
+# model
+*.pth
+
+# configs
+*.vscode
+
